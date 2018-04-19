@@ -1,0 +1,59 @@
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=marco catino146	m.catino@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=utente test294	u.test@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fabio busattofdb	f.busatto@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=marco losito9ca	m.losito@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=guido landi45c	g.landi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=antonella capaldodc5	a.capaldo@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fabrizio cornellib9d	f.cornelli@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=elisabetta ciceri76f	e.ciceri@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=giovanni cino0e5	g.cino@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=marco valleri002	m.valleri@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=alberto pelliccione342	a.pelliccione@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=andrea di pasquale849	a.dipasquale@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=emad shehata450	e.shehata@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=david vincenzetti7aa	d.vincenzetti@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=lucia rana9cb	l.rana@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=lorenzo invernizzi075	l.invernizzi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=cristian vardaro422	c.vardaro@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=fulvio de giovanni5f7	f.degiovanni@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=valeriano bedeschice8	v.bedeschi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=emanuele placidiea3	e.placidi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=alessandro scarafiled45	a.scarafile@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=christian pozzi777	c.pozzi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=daniele milan5af	d.milan@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=alex velasco769	a.velasco@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=rosario armando viscardiaab	r.viscardi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=deliveryfc6	delivery@hackingteam.com.
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=diego giubertonicf7	d.giubertoni@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=eros marconc61	e.marcon@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=eric rabec30	e.rabe@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=philippe antoine vinci785	p.vinci@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=utente prova3a1	imceaex-_o=hackingteam_ou=exchange+20administrative+20group+20+28fydibohf23spdlt+29_cn=recipients_cn=utente+20prova3a1@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=simonetta gallucci569	s.gallucci@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=supportfe0	support@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=massimo chiodiniddb	m.chiodini@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=bruno muschitiello690	b.muschitiello@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=luca guerrafb4	l.guerra@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=serge woona65	s.woon@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=daniele moltenif47	d.molteni@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=davide romualdi60e	d.romualdi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=antonio mazzeo195	a.mazzeo@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=alessandra mino5e6	a.mino@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=stefania iannelli515	s.iannelli@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=rcs-support184	rcs-support@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=giancarlo russof7a	g.russo@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=besadminb2c	besadmin@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=mostapha maanna4d7	m.maanna@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=ivan speziale06f	i.speziale@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=matteo olivaa7b	m.oliva@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=massimiliano luppi133	m.luppi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=daniel maglietta983	d.maglietta@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=enrico parentini058	e.parentini@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=eugene hod15	e.ho@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=mauro romeof4d	m.romeo@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=walter furlan703	w.furlan@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=alberto ornaghidd4	a.ornaghi@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=marco fontana52d	m.fontana@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=crm3ed	crm@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=sara galvagnac39	s.galvagna@hackingteam.com
+/o=hackingteam/ou=exchange administrative group (fydibohf23spdlt)/cn=recipients/cn=marco bettini39b	m.bettini@hackingteam.com
